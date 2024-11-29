@@ -24,6 +24,7 @@ main article .form form input{
     width: 80%;
 }
 
+/*made text area non-resizable */
 main article .form form textarea{
     width: 80%;
     height: 200px;
