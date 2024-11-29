@@ -120,6 +120,7 @@ footer {
     justify-items: center;
     background-color:#202b20;
     color: white;
+    padding: 10px;
     
 }
 
@@ -131,7 +132,8 @@ footer {
 }
 
 .footer-info-section h2{
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 24px;
 }
 
 .image-container {
